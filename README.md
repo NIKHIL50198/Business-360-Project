@@ -1,6 +1,6 @@
 # Business-360-Project
 
-## Live Dashboard: _[Business-360-Project](https://app.powerbi.com/view?r=eyJrIjoiMDA4NGM1MTEtODM4Ni00NGVhLThhZTctM2IwNzFjOTljYWZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+## Live Dashboard: https://app.powerbi.com/links/VpkuOcEhAv?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
 ## Home Page :
 
 
