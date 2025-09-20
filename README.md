@@ -6,7 +6,7 @@
 
 - **View objective:** 
 
-    **1.** Created a _[Home Page](https://github.com/vanshbhatt05/Business-360-Project/blob/main/Home-Page.pdf)_ from the user to navigate to different Views in the Dashboard.
+    **1.** Created a _[Home Page](https://github.com/NIKHIL50198/Business-360-Project/blob/c0d704fb111bc919e8c7cd3b22b8d7693436a5aa/home.pdf)_ from the user to navigate to different Views in the Dashboard.
 
     **2.** The Images have navigation to their respective Views.
 
