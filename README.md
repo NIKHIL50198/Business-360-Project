@@ -33,7 +33,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/vanshbhatt05/Business-360-Project/blob/main/Sale-View.pdf)_
+    **1.** Created a Dashboard for _[Sales View](https://github.com/NIKHIL50198/Business-360-Project/blob/137862df342745c2c2eb4cb2393471ba9916b7cd/product%20view.pdf)_
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -47,7 +47,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Market View](https://github.com/vanshbhatt05/Business-360-Project/blob/main/Market-View.pdf)_
+    **1.** Created a Dashboard for _[Market View](https://github.com/NIKHIL50198/Business-360-Project/blob/c0d704fb111bc919e8c7cd3b22b8d7693436a5aa/marketing%20view.pdf)_
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
   
@@ -61,8 +61,8 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/vanshbhatt05/Business-360-Project/blob/main/Supply%20-Chain-View.pdf)_
-
+    **1.** Created a Dashboard for _[Supply Chain View](
+https://github.com/NIKHIL50198/Business-360-Project/blob/137862df342745c2c2eb4cb2393471ba9916b7cd/supply%20chain%20view.pdf)
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
 - **Accuracy/Net Error Trend:** Monthly Distribution of Net Error and Forecast Accuracy (current and last year) using a Line and Clustered Column Chart.
@@ -73,7 +73,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Executive View](https://github.com/vanshbhatt05/Business-360-Project/blob/main/Executive-View.pdf)_
+    **1.** Created a Dashboard for _[Executive View](https://github.com/NIKHIL50198/Business-360-Project/blob/c0d704fb111bc919e8c7cd3b22b8d7693436a5aa/Executive%20view.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
 
