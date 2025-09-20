@@ -21,7 +21,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Finance View](https://github.com/vanshbhatt05/Business-360-Project/blob/main/Finance%20-View.pdf)_
+    **1.** Created a Dashboard for _[Finance View](https://github.com/NIKHIL50198/Business-360-Project/blob/c0d704fb111bc919e8c7cd3b22b8d7693436a5aa/finance%20view.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
