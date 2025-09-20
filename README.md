@@ -33,7 +33,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/NIKHIL50198/Business-360-Project/blob/137862df342745c2c2eb4cb2393471ba9916b7cd/product%20view.pdf)_
+    **1.** Created a Dashboard for _[Sales View](https://github.com/NIKHIL50198/Business-360-Project/blob/137862df342745c2c2eb4cb2393471ba9916b7cd/sales%20view.pdf)_
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
