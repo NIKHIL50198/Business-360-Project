@@ -33,7 +33,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/NIKHIL50198/Business-360-Project/blob/770945a691aa18d97733c710bdb3ce4badb701e5/images/sales%20view.jpg)_
+    **1.** Created a Dashboard for _[Sales View](https://github.com/NIKHIL50198/Business-360-Project/blob/770945a691aa18d97733c710bdb3ce4badb701e5/images/sales%20view.jpg)
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -47,7 +47,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Market View](https://github.com/NIKHIL50198/Business-360-Project/blob/d393e0cf0aaa887b8f154c2bc33877831073da36/images/Marketing%20view.jpg)_
+    **1.** Created a Dashboard for _[Market View](https://github.com/NIKHIL50198/Business-360-Project/blob/d393e0cf0aaa887b8f154c2bc33877831073da36/images/Marketing%20view.jpg)
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
   
@@ -73,7 +73,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Executive View](https://github.com/NIKHIL50198/Business-360-Project/blob/d393e0cf0aaa887b8f154c2bc33877831073da36/images/Executive%20view.jpg)_
+    **1.** Created a Dashboard for _[Executive View](https://github.com/NIKHIL50198/Business-360-Project/blob/d393e0cf0aaa887b8f154c2bc33877831073da36/images/Executive%20view.jpg)
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
 
