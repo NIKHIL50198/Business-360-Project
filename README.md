@@ -2,11 +2,11 @@
 
 ## Live Dashboard: _[click here](https://app.powerbi.com/view?r=eyJrIjoiZTQ3NDJiZTctMTQ3OS00YTFhLTkwNDgtNTBiYzAwMjVkNzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)_ 
 ## Home Page :
-
+(https://github.com/NIKHIL50198/Business-360-Project/blob/d393e0cf0aaa887b8f154c2bc33877831073da36/images/home.jpg)
 
 - **View objective:** 
 
-    **1.** Created a _[Home Page]()_ from the user to navigate to different Views in the Dashboard.
+    **1.** Created a Home Page from the user to navigate to different Views in the Dashboard.
 
     **2.** The Images have navigation to their respective Views.
 
